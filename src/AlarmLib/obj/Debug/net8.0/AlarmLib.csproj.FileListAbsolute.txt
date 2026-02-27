@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\bin\Debug\net8.0\AlarmLib.deps.json
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\bin\Debug\net8.0\AlarmLib.dll
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\bin\Debug\net8.0\AlarmLib.pdb
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\obj\Debug\net8.0\AlarmLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\obj\Debug\net8.0\AlarmLib.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\obj\Debug\net8.0\AlarmLib.AssemblyInfo.cs
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\obj\Debug\net8.0\AlarmLib.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\obj\Debug\net8.0\AlarmLib.dll
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\obj\Debug\net8.0\refint\AlarmLib.dll
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\obj\Debug\net8.0\AlarmLib.pdb
+C:\Users\Chris\source\repos\ZenikaAssignment\src\AlarmLib\obj\Debug\net8.0\ref\AlarmLib.dll
